@@ -1,0 +1,19 @@
+dl214@soetcse:~/vidya$ python3 22python.py
+enter value for a: 10
+fail
+dl214@soetcse:~/vidya$ python3 22python.py
+enter value for a: 47
+a is greater than c
+dl214@soetcse:~/vidya$ python3 22python.py
+enter value for a: 85
+a is greater than A
+dl214@soetcse:~/vidya$ python3 22python.py
+enter value for a: 92
+a is greater than A+
+dl214@soetcse:~/vidya$ python3 22python.py
+enter value for a: 80
+a is greater than A
+dl214@soetcse:~/vidya$ python3 22python.py
+enter value for a: 75
+a is greater than b+
+
